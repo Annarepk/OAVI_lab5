@@ -4,7 +4,7 @@ from characters import imgChar, features
 
 fontPath = "times_new_roman.ttf"
 fontSize = 52
-alphabet = "abcçdefgğhijklmnoöprsştuüvyz"
+alphabet = "abcçdefgğhıijklmnoöprsştuüvyz"
 folderLet = "letters"
 folderProf = "profiles"
 data = []
